@@ -1,6 +1,6 @@
 Fill Tool By YOU-G
 
-Our smart auto-fill tool is designed to make frame-by-frame animation coloring faster and easier. Instead of manually filling every region on every frame, you can automate the entire process with just a few clicks while keeping colors consistent and accurate.
+Auto-fill tool is designed to make frame-by-frame animation coloring faster and easier. Instead of manually filling every region on every frame, you can automate the entire process with just a few clicks while keeping colors consistent and accurate.
 
 How It Works
 
